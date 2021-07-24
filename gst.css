@@ -3477,6 +3477,7 @@ a {
 .arrow-down {
     margin-right: 7px;
     margin-left: 8px;
+    
 }
 
 .navigation-text {
@@ -8681,7 +8682,7 @@ a {
 
     .n06_logo {
         margin-top: auto;
-        padding-top: 0px;
+        padding-top: 50px;
         padding-bottom: 0px;
     }
 
