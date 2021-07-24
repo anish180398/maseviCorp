@@ -7262,7 +7262,7 @@ a {
     }
 
     .n06_container {
-        margin-top: auto;
+        margin-top: 40px;
     }
 
     .hero_img {
@@ -8171,6 +8171,7 @@ a {
         display: -webkit-flex;
         display: -ms-flexbox;
         display: flex;
+        margin-top: ;
     }
 
     .footer-top-wrap-2 {
