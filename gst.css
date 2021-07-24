@@ -8680,7 +8680,7 @@ a {
     }
 
     .n06_logo {
-        margin-top: 41px;
+        margin-top: auto;
         padding-top: 0px;
         padding-bottom: 0px;
     }
@@ -8690,7 +8690,7 @@ a {
         display: -webkit-flex;
         display: -ms-flexbox;
         display: flex;
-        margin-top: -71px;
+        margin-top: -41px;
     }
 
     .n06_container {
