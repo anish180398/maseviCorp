@@ -3477,7 +3477,6 @@ a {
 .arrow-down {
     margin-right: 7px;
     margin-left: 8px;
-    
 }
 
 .navigation-text {
@@ -7160,8 +7159,9 @@ a {
 
     .n06_container-2 {
         height: auto;
-        margin-top: -177px;
+        margin-top: -154px;
         padding-top: 98px;
+        margin-left: 5px;
     }
 
     .header-08-2 {
@@ -8681,8 +8681,8 @@ a {
     }
 
     .n06_logo {
-        margin-top: 100px;
-        padding-top: 50px;
+        margin-top: 41px;
+        padding-top: 0px;
         padding-bottom: 0px;
     }
 
